@@ -16,7 +16,7 @@ const About = () => {
           </div>
         </Fade>
         <Fade bottom>
-          <p className="text-2xl mt-20">
+          <p className="text-xl mt-20">
             As a dedicated and passionate full-stack web developer, I thrive on
             crafting innovative digital experiences. With a strong foundation in
             JavaScript, I'm well-versed in both front-end and back-end
@@ -28,7 +28,7 @@ const About = () => {
         <br />
 
         <Fade bottom>
-          <p className="text-2xl">
+          <p className="text-xl">
             My commitment to continuous learning keeps me at the forefront of
             web development trends, ensuring that I deliver cutting-edge
             solutions to clients. I'm excited to take on new challenges and
