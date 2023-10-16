@@ -5,7 +5,6 @@ import "./index.css";
 import ReactGA from "react-ga4";
 
 ReactGA.initialize("G-XQSZKKJZ3G");
-
 ReactGA.send({ hitType: "pageview", page: window.location.pathname });
 
 ReactDOM.createRoot(document.getElementById("root")).render(

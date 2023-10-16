@@ -1,6 +1,7 @@
 import React from "react";
 import parkingTicket from "../assets/Images/parkingTicket-thumb.png";
 import weatherApp from "../assets/Images/weatherApp-thumb.png";
+import nasaApi from "../assets/Images/nasaApi-thumb.png";
 import { Fade } from "react-reveal";
 
 const Projects = () => {
@@ -15,7 +16,13 @@ const Projects = () => {
       id: 2,
       src: weatherApp,
       git: "https://github.com/mvd7/weather-app-react",
-      demo: "https://mvd7.github.io/weather-app-react/",
+      demo: "https://nasa-api-0000.netlify.app/",
+    },
+    {
+      id: 3,
+      src: nasaApi,
+      git: "https://github.com/mvd7/nasa-api-project",
+      demo: "https://nasa-api-0000.netlify.app/",
     },
   ];
 
